@@ -1,0 +1,520 @@
+{
+  "components": {
+    "accountAside": {
+      "listLinks": {
+        "linkLabel1": "Account",
+        "linkLabel2": "Adress",
+        "linkLabel3": "Downloads",
+        "linkLabel4": "wachtwoord",
+        "linkLabel5": "Mijn beoordelingen"
+      }
+    },
+    "addressCard": {
+      "deleteButton": "Verwijderen",
+      "editButton": "Bewerken",
+      "title": "Uw persoonlijke gegevens"
+    },
+    "addressForm": {
+      "company": "Bedrijf (optioneel)",
+      "fax": "Fax",
+      "inputLabelAddress": "Adres en huisnummer",
+      "inputLabelCity": "Plaats",
+      "inputLabelCompany": "Bedrijfsnaam",
+      "inputLabelCompanyAddress": "Bedrijfsadres",
+      "inputLabelEmail": "E-mailadres",
+      "inputLabelFirstName": "Voornaam",
+      "inputLabelLastName": "Achternaam",
+      "inputLabelNewsLetter": "Ontvang de nieuwsbrief",
+      "inputLabelVatNumber": "BTW-nummer",
+      "inputPhoneLabel": "Telefoonnummer",
+      "inputPlaceHolderCompanyAddress": "Straat + nummer",
+      "postcode": "Postcode",
+      "save": "Opslaan"
+    },
+    "blogItems": {
+      "noItemsFound": "Artikelen werden niet gevonden"
+    },
+    "theFooter": {
+      "contact": "Contact",
+      "copyright": "\t© 2023 Gustor België.",
+      "extra": "Extra",
+      "extraLinks": {
+        "link1Label": "Blog",
+        "link2Label": "Recepten",
+        "link3Label": "Cadeaubon"
+      },
+      "info": "Info",
+      "infoLinks": {
+        "linkLabel1": "Over ons",
+        "linkLabel2": "Clean label",
+        "linkLabel3": "Klantenservice",
+        "linkLabel4": "Levering",
+        "linkLabel5": "Contact",
+        "linkLabel6": "FAQ"
+      },
+      "meat": "Vlees",
+      "newsLetter": "Schrijf je in voor de Gustor nieuwsbrief",
+      "newsLetterLabel": "Inschrijven voor nieuwsbrief",
+      "packagesPromos": "Pakketten en promo's",
+      "payment": "Veilig betalen",
+      "privacyPolicy": "Privacy- en Cookieverklaring",
+      "promoLinks": {
+        "linkLabel1": "Vleespakketten",
+        "linkLabel2": "BBQ-Pakketten",
+        "linkLabel3": "Deli-store",
+        "linkLabel4": "Promo's"
+      },
+      "rightsReserverd": "Alle rechten voorbehouden.",
+      "terms": "Algemene voorwaarden"
+    },
+    "theHeader": {
+      "menuItems": {
+        "menuLink1": "Vlees",
+        "menuLink2": "Pakketten en promo's",
+        "menuLink3": "Cadeaubon",
+        "menuLink4": "Inspiratie",
+        "menuLink5": "Levering en help",
+        "menuLink6": "Over Gustor"
+      },
+      "menuSubItems": {
+        "menuLink1SubLink1": "Rund",
+        "menuLink1SubLink2": "Varken",
+        "menuLink1SubLink3": "Wild",
+        "menuLink1SubLink4": "Lam",
+        "menuLink1SubLink5": "Kalf",
+        "menuLink1SubLink6": "Gevogelte",
+        "menuLink2SubLink1": "Vleespakketten",
+        "menuLink2SubLink2": "BBQ Pakketten",
+        "menuLink2SubLink3": "Deli-store",
+        "menuLink2SubLink4": "Promo's",
+        "menuLink4SubLink1": "Inspiratie",
+        "menuLink4SubLink2": "Recepten",
+        "menuLink4SubLink3": "Nieuws",
+        "menuLink5SubLink1": "Levering en help",
+        "menuLink5SubLink2": "Levering",
+        "menuLink5SubLink3": "Contact",
+        "menuLink5SubLink4": "FAQ",
+        "menuLink5SubLink5": "Klantenservice"
+      },
+      "topMenuItems": {
+        "item1": "Vers & Gekoeld verzonden",
+        "item2": "Voor 9 uur besteld, morgen geleverd",
+        "item3": "Kies zelf de bezorgdatum",
+        "tel": "TEL +32 473 60 06 22"
+      }
+    }
+  },
+  "pages": {
+    "account": {
+      "address": {
+        "addAddressButtonLabel": "+ Nieuw adres toevoegen",
+        "title": "Mijn account - Adressen"
+      },
+      "downloads": {
+        "noItemsFound": "Geen downloadbare items gevonden",
+        "title": "Mijn account - Downloads"
+      },
+      "editPassword": {
+        "editPasswordButtonLabel": "Wachtwoord wijzigen",
+        "title": "Mijn account - Wachtwoord"
+      },
+      "index": {
+        "deleteButton": "Verwijderen",
+        "editButton": "Bewerken",
+        "inputLabelCompany": "Bedrijfsnaam",
+        "inputLabelEmail": "E-mailadres",
+        "inputLabelFirstName": "Voornaam",
+        "inputLabelLastName": "Achternaam",
+        "inputLabelNewsLetter": "Ontvang de nieuwsbrief",
+        "inputLabelVatNumber": "BTW-nummer",
+        "options": "Opties",
+        "saveButton": "Opslaan",
+        "subTitle": "Uw persoonlijke gegevens",
+        "title": "Mijn account - Klant informatie"
+      },
+      "reviews": {
+        "title": "Mijn account - Recensies"
+      }
+    },
+    "blog": {
+      "blogDetails": {
+        "inspiration": "Inspiratie",
+        "news": "Nieuws",
+        "nieuws": "news",
+        "recepts": "Recepten",
+        "recipes": "Recepten",
+        "relatedProducts": "GERELATEERDE PRODUCTEN",
+        "blogDefaultImageAlt": "blog standaard afbeelding"
+      },
+      "description": "Naast praktische tips en recepten, vind je op onze blog ook interessante artikelen over de oorsprong en geschiedenis van verschillende soorten vlees. Leer bijvoorbeeld meer over de herkomst van Wagyu- en Iberico-vlees, en hoe deze rassen zich onderscheiden van andere vleessoorten.",
+      "title": "Inspireer jezelf met de Gustor Blog & recepten"
+    },
+    "category": {
+      "filterByBreedTitle": "Ras"
+    },
+    "checkout": {
+      "index": {
+        "province": "Provincie:",
+        "deliveryAddresTitle": "Leveringsadres"
+      },
+      "login": {
+        "areYouClient": "Ben jij al klant?",
+        "buttonLabelRegister": "Registreren",
+        "checkoutAsGuest": "Uitchecken als gast",
+        "company": "Bedrijf (optioneel)",
+        "contactDetails": "Contactinformatie",
+        "deliveryAddresTitle": "Leveringsadres",
+        "deliveryAddressTitle": "Leveringsadres is hetzelfde als factuuradres",
+        "inputAddress": "Adres en huisnummer",
+        "inputAddressPlaceholder": "Straat + nummer",
+        "inputCity": "Plaats",
+        "inputConditionLabel": "Ja, ik wens af en toe nieuws over Gustor te ontvangen",
+        "inputConfirmPasswordLabel": "Wachtwoord bevestigen",
+        "inputEmailLabel": "E-mail",
+        "inputEmailPlaceholder": "Jouw emailadres",
+        "inputFirstNameLabel": "Voornaam",
+        "inputPassword": "Wachtwoord",
+        "inputPasswordLabel": "Wachtwoord (min 8 karakters)",
+        "inputPhoneLabel": "Achternaam",
+        "inputPostCode": "Postcode",
+        "inputUserNameLabel": "Gebruikersnaam",
+        "inputlastNameLabel": "Achternaam",
+        "newClient": "Nieuwe klant",
+        "signInButtonLabel": "Aanmelden",
+        "staySignedIn": "Blijf ingelogd",
+        "toPayment": "Naar betaling"
+      },
+      "stepConfirm": {
+        "addAddressButtonLabel": "+ Nieuw adres aanmaken",
+        "address": "Adres",
+        "addressesTitle": "\tFactuur & leveringsadres",
+        "back": "Terug",
+        "billingAddress": "Facturatie adres",
+        "buttonLabelOtherAddress": "Ander bezorgadres",
+        "cancel": "Annuleren",
+        "confirm": "Bevestigen",
+        "contactDetails": "Contactinformatie",
+        "email": "Email:",
+        "extraSubTitle": "Extra info",
+        "extraTitle": "Email",
+        "further": "Verder",
+        "paymentMethod": "Selecteer betaalmethode",
+        "phone": "Telefoon:",
+        "save": "Opslaan",
+        "selectAddress": "Adres selecteren",
+        "shipping": "Verzending",
+        "step": "stap",
+        "subTotal": "Subtotaal",
+        "tab0Title": "Adres controleren",
+        "tab1Title": "Ander adres",
+        "tax": "BTW",
+        "title": "Controleer en afrekenen",
+        "titleAddAddress": "Adres aanmaken",
+        "toPayment": "Naar betaling",
+        "total": "Totaal"
+      },
+      "stepDeliveryAddress": {
+        "deliveryAddressIsSameAsBillingAddress": "Leveringsadres is hetzelfde als facturatie adres",
+        "inputLabelAddress": "Adres en huisnummer",
+        "inputLabelCity": "Plaats",
+        "inputLabelPostCode": "Postcode",
+        "inputLabelVat": "BTW-nummer (optioneel)",
+        "title": "Leveringsadres",
+        "titleCompany": "Bedrijf (optioneel)",
+        "titleExtraInfo": "Extra info (optioneel)",
+        "toPayment": "Naar betaling"
+      }
+
+    },
+    "delivery": {
+      "index": {
+        "delivery": "Levering",
+        "deliveryDescription": "We leveren je bestelling veilig, gekoeld en snel bij je thuis op de door jou gekozen dag.",
+        "description": "Vleesbezorging aan huis: eenvoudig, betrouwbaar en superlekker. Kan ik echt vlees thuis laten bezorgen? Hoe dan?",
+        "order": "Bestelling",
+        "orderDescription": "Ontdek ons uitgebreide assortiment van uitzonderlijk vlees en bestel jouw favoriete stukken.",
+        "pakking": "Verpakken",
+        "pakkingDescription": "We pakken elke bestelling zorgvuldig in met speciale verpakkingen om de versheid van ons vlees te garanderen.",
+        "title": "Hoe gebeurt de levering van het vlees dat je online bestelt?"
+      }
+    },
+    "faq": {
+      "index": {
+        "buttonLabelContact": "Contact opnemen",
+        "description": "Heb je vragen over onze producten, levering of andere zaken? Hieronder vind je een overzicht van de meest gestelde vragen met onze antwoorden.",
+        "description2": "Staat jouw vraag er niet bij? Aarzel dan niet om contact met ons op te nemen, we helpen je graag verder.",
+        "faqGeneral": "Algemene vragen",
+        "faqGeneralBody": "Hier vind je de antwoorden op veelgestelde vragen over Gustor en onze producten. Kan je geen gepast antwoord vinden? Neem dan gerust contact met ons op.",
+        "faqOrderAndDelivery": "Vragen over de bestelling & levering",
+        "faqOrderAndDeliveryBody": "Vragen over bestellingen en leveringen bij Gustor? Hier vind je de antwoorden op enkele veelgestelde vragen. Kan je geen passend antwoord vinden? Aarzel niet om contact met ons op te nemen.",
+        "search": "Zoeken",
+        "searchPlaceholder": "Zoeken naar...",
+        "stillHaveAQustions": "Heb je nog steeds vragen?",
+        "stillHaveAQustionsDescription": "Kan je het antwoord niet direct vinden? Neem contact op met ons.",
+        "title": "Veelgestelde vragen - FAQ"
+      }
+    },
+    "giftVoucher": {
+      "index": {
+        "title": "CADEAUBON"
+      }
+    },
+    "index": {
+      "aboutSection1Description": "Bij Gustor Meat Boutique gaan we verder dan de traditionele slager, ontdek onze unieke selectie van vlees van de hoogste kwaliteit. Wij selecteren niet alleen op basis van ras, maar ook op kleur, geur en vetpercentages.",
+      "aboutSection1Title": "Ons aanbod begint waar de traditionele slager stopt",
+      "aboutSection2Description": "Wij zoeken voor elk ras de beste oorsprong. Daarom halen we\tbijvoorbeeld onze Rubia Gallega uit Galicië, onze Holstein uit\tOostenrijk en onze Wagyu rechtstreeks uit Japan. Door deze\tzorgvuldige selectie garanderen we de hoogste kwaliteit en de\tbeste smaak.",
+      "aboutSection2Title": "De beste origine voor ieder ras",
+      "aboutSection3Description": "Alles draait om ambachtelijk vakmanschap bij Gustor. Onze slagers zijn experts in het versnijden en bereiden van het vlees, zodat elk stuk optimaal bij de klant terechtkomt. Iemand die Gustor contacteert, die krijgt altijd een echte slager aan de lijn.",
+      "aboutSection3Title": "Ambachtelijk vakmanschap",
+      "aboutTitle": "Over Gustor",
+      "allCategoriesButtonLabel": "Bekijk alle producten",
+      "allCategoriesSubtitle": "Ontdek ons zorgvuldig geselecteerde en vers bereide aanbod van topkwaliteit vlees: van perfecte steaks tot sappige burgers. Of doe \tiemand een plezier en geef hen een Gustor-cadeaubon als geschenk!",
+      "allCategoriesTitle": "Het volledige aanbod",
+      "approachStep1Description": "Ontdek ons uitgebreide assortiment van uitzonderlijk vlees en bestel je favoriete stukken.",
+      "approachStep1Title": "Bestelling",
+      "approachStep2Description": "We pakken elke bestelling zorgvuldig in met speciale verpakkingen om de versheid van je vlees te garanderen.",
+      "approachStep2Title": "Verpakken",
+      "approachStep3Description": "We leveren je bestelling veilig, gekoeld en snel bij je thuis op de door jou gekozen dag.",
+      "approachStep3Title": "Levering",
+      "approachTitle": "Hoe gaan we precies tewerk bij Gustor?",
+      "bbqButtonLabel": "Bekijk alle BBQ producten",
+      "bbqSubTitle": "Niets roept meer de zomer op als een heerlijke BBQ met vrienden en familie.\tZorg ervoor dat je het perfecte vlees in huis hebt om van je volgende\tBBQ een onvergetelijke gelegenheid te maken.",
+      "bbqTitle": "Vlees voor op de barbecue",
+      "faqButtonLabel": "Bekijk de volledige FAQ",
+      "faqCategory1Item1Description": "Bij Gustor vinden we het belangrijk om alleen vlees van de hoogste kwaliteit aan te bieden aan onze klanten. Daarom zoeken wij voor elk ras de beste origine / oorsprong. Zo halen we bijvoorbeeld onze Rubia Gallega enkel uit Galicië, onze Holstein uit Oostenrijk en onze Wagyu rechtstreeks uit Japan.",
+      "faqCategory1Item1Title": "Waar komt jullie vlees vandaan?",
+      "faqCategory1Item2Description": "Bewaar het vlees onmiddellijk na levering in de koelkast op 7°C (4°C bij gevogelte) of lager in de originele verpakking. Invriezen kan ook, bij -18°C of lager. Laat het vlees minstens 15 - 30 minuten voor gebruik rusten en op kamertemperatuur komen.",
+      "faqCategory1Item2Title": "Hoe moet ik het vlees bewaren?",
+      "faqCategory1Item3Description": "Bij bewaring onder 7°C garandeert de vacuümverpakking een totale versheid van 8 dagen na ontvangst. Voor gevogelte is dit 4 dagen bij een bewaring onder de 4°C. In de diepvries kan je het vlees tot zes maanden bewaren. De producten worden vers verstuurd en zijn niet eerder diepgevroren, tenzij anders vermeld op de website.",
+      "faqCategory1Item3Title": "Hoe lang kan ik het vlees bewaren?",
+      "faqCategory1Item4Description": "Ja, het is veilig om vlees online te bestellen bij Gustor. We nemen voedselveiligheid zeer serieus en voldoen aan alle geldende regelgevingen en normen. Bovendien gebruiken we alleen veilige en beveiligde betaalmethoden om uw bestelling te verwerken.",
+      "faqCategory1Item4Title": "Is het veilig om vlees online te bestellen?",
+      "faqCategory1Item5Description": "We verpakken het vlees in speciale koelboxen en gebruiken koelelementen om het vlees koel te houden tijdens het transport. Zo blijft het vlees lekker vers en van uitstekende kwaliteit bij aankomst.",
+      "faqCategory1Item5Title": "Hoe wordt het vlees verpakt en verzonden?",
+      "faqCategory1Title": "Algemene vragen",
+      "faqCategory2Item1Description": "Wij accepteren Bancontact, kredietkaarten zoals Mastercard of Visa, iDEAL, PayPal en SOFORT Banking",
+      "faqCategory2Item1Title": "Welke betalingsmogelijkheden accepteren jullie?",
+      "faqCategory2Item2Description": "De levertijd van een bestelling is afhankelijk van de besteldag en het tijdstip van bestellen. Bestellingen moeten voor 9.00 uur 's morgens geplaatst worden om de volgende dag geleverd te worden tussen 8.00 uur en 20.00 uur. Leveringen vinden plaats van dinsdag tot en met zaterdag. Tijdens de eindejaarsfeesten gelden andere dan normale leverdagen en uiterste besteluren.",
+      "faqCategory2Item2Title": "Wat is de levertijd van mijn bestelling?",
+      "faqCategory2Item3Description": "Ja. Het is trouwens ook mogelijk om een tijdsblok te kiezen voor de levering van uw bestelling. Het is echter belangrijk om te benadrukken dat het kiezen van een tijdsblok geen absolute zekerheid geeft over het exacte tijdstip van levering, in tegenstelling tot het kiezen van een specifieke leverdag. ",
+      "faqCategory2Item3Title": "Kan ik mijn bestelling op een specifieke dag laten bezorgen?",
+      "faqCategory2Item4Description": "Ja, zodra uw bestelling is verzonden, ontvangt u een e-mail met de trackinginformatie. Op die manier kunt u uw bestelling volgen en weten wanneer het bij u wordt geleverd",
+      "faqCategory2Item4Title": "Kan ik mijn bestelling volgen?",
+      "faqCategory2Item5Description": "Als je een bestelling bij Gustor hebt geplaatst en je wilt deze annuleren of wijzigen, is het belangrijk om zo snel mogelijk contact op te nemen met onze klantenservice. Bij Gustor streven we naar 100% succesvolle leveringen, daarom is het van groot belang om onmiddellijk contact op te nemen als er iets misgaat. Afhankelijk van de status van je bestelling kan het mogelijk zijn om deze te wijzigen of te annuleren.",
+      "faqCategory2Item5Title": "Is het mogelijk om mijn bestelling te annuleren of te wijzigen?",
+      "faqCategory2Item6Description": "We willen dat al onze klanten tevreden zijn met hun bestelling. Als u om welke reden dan ook niet tevreden bent met uw bestelling, neem dan contact met ons op en wij zullen ons best doen om het probleem op te lossen. We bieden een 100% tevredenheidsgarantie op al onze producten.",
+      "faqCategory2Item6Title": "Wat als ik niet tevreden ben met mijn bestelling? ",
+      "faqCategory2Title": "Vragen over de bestelling & levering",
+      "faqDescription": "Heb je vragen over onze producten, levering of andere zaken? Hieronder\tvind je een overzicht van de meest gestelde vragen met onze\tantwoorden. Staat jouw vraag er niet bij? Aarzel dan niet om contact\tmet ons op te nemen, we helpen je graag verder.",
+      "faqTitle": "Veelgestelde vragen - FAQ",
+      "heroSubtitle": "Ons aanbod begint waar de traditionele slager stopt.",
+      "heroTitle": "Vers versneden vlees van topkwaliteit, gekoeld aan huis geleverd",
+      "promoButtonLabel": "bekijk alle promoties",
+      "promoTitle": "Huidige promo's & bestsellers",
+      "reviewsSubTitle": "Lees hier wat onze klanten te zeggen hebben over hun ervaringen met\tGustor! Van de kwaliteit van ons vlees tot de snelheid van de\tlevering, we zijn trots om hun feedback te delen. Laat ons weten wat\tje van ons vindt en deel je eigen beoordeling!",
+      "reviewsTitle": "Recente beoordelingen",
+      "title": "Gustor Meat Boutique - Online Slager - Uitzonderlijk Vlees",
+      "viewProducts": "Bekijk producten",
+      "pictureRegarding": "beeld over de"
+    },
+    "login": {
+      "index": {
+        "buttonLabelRegister": "Registreren",
+        "buttonLabelSubmit": "Aanmelden",
+        "inputLabelEmail": "E-mailadres",
+        "inputLabelPassword": "Wachtwoord",
+        "newClient": "Nieuwe klant",
+        "newClientDescription": "Door het aanmaken van een account in onze webwinkel, kunt u sneller winkelen, blijft u op de hoogte van de status van uw bestelling, en kunt u de status van voorgaande bestellingen volgen.",
+        "returningCustomer": "Terugkerende klant",
+        "title": "Welkom! Meldt u aan a.u.b."
+      },
+      "passwordRecovery": {
+        "buttonLabelRecover": "Herstellen",
+        "inputLabelEamil": "Uw e-mailadres",
+        "title": "WACHTWOORD HERSTEL"
+      }
+    },
+    "productDetailsPage": {
+      "buttonLabelAddToShoppingCart": "In mijn winkelwagen",
+      "reviews":"beoordelingen",
+      "addReview": "Beoordeling toevoegen",
+      "dialog": {
+        "callUs": " Bel ons op +32 473 60 06 22",
+        "furtherShopping": "Verder winkelen",
+        "furtherToOrder": "Verder naar bestellen",
+        "questionAboutOrdering": "Vragen over je bestelling?",
+        "readFaq": "Lees onze veelgestelde vragen (FAQ)",
+        "title": "Het artikel is toegevoegd aan je winkelwagen!",
+      },
+      "addReviewDialog":{
+        "titleDialog": "Product beoordelingen voor",
+        "dialogSubtitle": "Schrijf uw eigen beoordeling",
+        "warning": "Alleen geregistreerde gebruikers kunnen een beoordeling schrijven",
+        "title": "Titel",
+        "reviewText": "Beoordelingstekst",
+        "valuation": "Waardering",
+        "sendReviewButtonLabel": "verstuur beoordeling"
+      },
+      "outOfStock": "Deze optie is niet op voorraad",
+      "productReviews": "Product beoordelingen",
+      "productReviewsDescription": "Lees hier wat onze klanten te zeggen hebben!",
+      "relatedProducts": "GERELATEERDE PRODUCTEN",
+      "tags": "Tags",
+      "titleExtraProductDetails": "Extra Productinformatie",
+      "titlePreparation": "Bereiding"
+    },
+    "products": {
+      "index": {
+        "allProducts": "ALLE PRODUCTEN",
+        "filterByCategoryTitle": "Categorieën",
+        "tags": "tags"
+      }
+    },
+    "register": {
+      "index": {
+        "both": "Liever geen van beide",
+        "buttonLabelRegister": "Registeer",
+        "company": "Bedrijf (optioneel)",
+        "deliveryAddress": "Leveringsadres",
+        "deliveryAddressIsSameAsBillingAddress": "Leveringsadres is hetzelfde als factuuradres",
+        "gender": "Geslacht:",
+        "inputAddressPlaceholder": "Straat + nummer",
+        "inputLabelAddress": "Adres en huisnummer",
+        "inputLabelBirthDate": "Geboortedatum",
+        "inputLabelCity": "Plaats",
+        "inputLabelCompany": "Bedrijf",
+        "inputLabelCompanyAddress": "Bedrijf adres",
+        "inputLabelConfirmPassword": "Wachtwoord bevestigen",
+        "inputLabelEmail": "E-mail",
+        "inputLabelFax": "Fax",
+        "inputLabelFirstName": "Voornaam",
+        "inputLabelLastName": "Achternaam",
+        "inputLabelPassword": "Wachtwoord (min 8 karakters)",
+        "inputLabelPhoneNumber": "Telefoon",
+        "inputLabelPostCode": "Postcode",
+        "inputLabelTerms": "Ja, ik wens af en toe nieuws over Gustor te ontvangen",
+        "man": "De heer",
+        "title": "Contactinformatie",
+        "woman": "Mevrouw",
+        "step":"stap",
+        "notifications": {
+          "requiredFields": "Gelieve vul de verplichte velden in",
+          "passwordsAreNotSame":  "Wachtwoorden komen niet overeen",
+          "thanksForRegistering": "Bedankt voor uw aanmelding",
+          "somethingWentWrong":  "Er ging iets mis of de ingevulde e-mail bestond al",
+        }
+      }
+    },
+    "shoppingCart": {
+      "index": {
+        "agreeWith": " Ik ga akkoord met de",
+        "apply": "Toepassen",
+        "cartEmpty": "Je winkelwagen is leeg",
+        "cartEmptyBody": "Oh nee! Jouw winkelwagentje is leeg en voelt zich een beetje eenzaam. Vul je wagentje met wat sappige hamburgers, heerlijke entrecôtes of spareribs en je zult jezelf dankbaar zijn voor het voeden van je innerlijke carnivoor!",
+        "conditions": "voorwaarden",
+        "confirm": "Bevestig",
+        "contactUs": "Heb je problemen met je winkelwagen of het bestellen? Contacteer ons dan op +32 473 60 06 22",
+        "dateOfPicking": "Datum Ophaling",
+        "dateOfPickingDescription": "Indien je jouw bestelling nog vandaag wenst af te halen, gelieve ons dan voor 11 uur 's ochtends te bellen. Afhalen is mogelijk van maandag tot en met vrijdag vóór 15 uur. Het is niet mogelijk tijdens het weekend, op feestdagen of de dag voorafgaand aan een feestdag.",
+        "deliveryDate": "Datum levering",
+        "deliveryMethod": "LEVERINGSMETHODE",
+        "deliveryTitle": "Bezorgen of Afhalen",
+        "discounCode": "Kortingscode",
+        "furtherShopping": "Verder winkelen",
+        "giftOrDiscountCode": " Cadeaubon of kortingscode",
+        "giftVoucher": "Cadeaubon ",
+        "haveItDelivered": "Laten bezorgen",
+        "order": "Bestellen",
+        "orderNote": {
+          "default": "Bestel voor meer dan €200 en krijg een gratis geschenk!",
+          "orderMore": "Bestel nog voor €{0} extra, en krijg een nog beter geschenk!",
+          "orderMax": "Je geniet momenteel van gratis levering een krijgt een premium geschenk!"
+        },
+        "shipping": "vezending",
+        "subTotal": "Subtotaal",
+        "take": "Gratis komen ophalen te Koksijde",
+        "tax": "BTW",
+        "timeTip": "Tijdstip levering",
+        "timeTipNote": "De keuze van een tijdsblok tijdens de dag is echter nooit een 100% garantie.",
+        "timeTipUnselectableNote": "Levering zal plaatsvinden tussen 8u - 20u",
+        "title": "Winkelwagen",
+        "toalNote": "Het totaalbedrag is inclusief btw en bezorgkosten",
+        "total": "Totaal",
+        "totalNote": "Het totaalbedrag is inclusief btw",
+        "visitPromos": "Bekijk onze Promo's",
+        "whereToDeliver": "Waar moeten we leveren?",
+        "countries": {
+          "belgium": "België",
+          "netherlands": "Nederland",
+          "france": "Frankrijk",
+          "germany": "Duitsland",
+          "luxembourg": "Luxemburg"
+        },
+        "disabledContinueButtonInfo": {
+          "date": "Selecteer een leveringsdatum",
+          "terms": "Accepteer de voorwaarden"
+        }
+      }
+    },
+    "orderDetails": {
+      "order": "Bestelling",
+      "orderDate": "Besteldatum:",
+      "orderStatus": "Bestelstatus:",
+      "products": "producten",
+      "shippingAddress": "Afleveradres",
+      "email":"Email:",
+      "phone":"Telefoon:",
+      "address":"Adres:",
+      "company":"Bedrijf:",
+      "fax": "Fax:",
+      "extraInfo": "Extra info",
+      "paymentMethod": "Betalingswijze:",
+      "paymentStatus": "Betalingsstatus:",
+      "shippingMethod": "Verzendwijze:",
+      "shippingStatus": "Verzendstatus:",
+      "subTotal": "Subtotaal:",
+      "shipping":"Verzending:",
+      "vat": "BTW:",
+      "orderSubtotalDiscount": "Subtotaalkorting bestellen:",
+      "orderTotalDiscount": "Bestel totale korting:",
+      "orderTotal": "Totale bestelling:"
+    }
+
+  },
+  "url": {
+    "account": {
+      "address": "address",
+      "addressManage": "address-manage",
+      "downloads": "downloads",
+      "editPassword": "edit-password",
+      "index": "account",
+      "reviews": "reviews"
+    },
+    "category": "category",
+    "checkout": {
+      "index": "uitchecken",
+      "login": "login",
+      "stepConfirm": "stap-bevestigen",
+      "stepDeliveryAddress": "stap-afleveradres"
+    },
+    "delivery": "delivery",
+    "inspiration": "inspiration",
+    "login": {
+      "index": "login",
+      "passwordRecovery": "password-recovery"
+    },
+    "meat": "meat",
+    "meatTypes": {
+      "beef": "Rund",
+      "calf": "kalf",
+      "lam": "lam",
+      "pork": "varken",
+      "poultry": "gevogelte",
+      "wild": "wild"
+    },
+    "products": "producten"
+  },
+  "locale": {
+    "currentLang": "nl"
+  }
+}
