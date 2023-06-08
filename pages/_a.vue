@@ -299,35 +299,6 @@ try {
     location.reload();
   }
 } catch { }
-
-const { data: categoryMeat } = useAsyncData("categoryMeat", async () => {
-  const res = await useNopcommerceApi({
-    path: "/api-frontend/Catalog/GetCategory/{categoryId}",
-    method: "post",
-    pathParams: {
-      categoryId: 2,
-    },
-  });
-  return res?.categoryModelDto?.subCategories;
-});
-const { data: featuredProducts } = useAsyncData("featuredProducts", async () => {
-  return await useNopcommerceApi({
-    path: "/api-frontend/Product/HomePageProducts",
-    method: "get",
-  });
-});
-
-const { data: bbqProducts } = useAsyncData("bbqProducts", async () => {
-  const res = await useNopcommerceApi({
-    path: "/api-frontend/Catalog/GetProductsByTag/{productTagId}",
-    method: "post",
-    pathParams: {
-      productTagId: 2,
-    },
-  });
-  return res?.catalogProductsModel?.products;
-});
-
 const aboutUs = ref();
 const faqGeneral = ref();
 const faqOrderDelivery = ref();

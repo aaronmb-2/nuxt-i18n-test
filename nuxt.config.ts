@@ -12,19 +12,29 @@ export default defineNuxtConfig({
     detectBrowserLanguage: {
       useCookie: true,
       cookieKey: 'i18n_redirected',
-      redirectOn: 'root',  // recommended
       alwaysRedirect: true
     },
     baseUrl: 'localhost:3000',
+    langDir: '/locales',
     locales: [
       {
-          code: 'en',
-          iso: 'en-US'
+        code: "en",
+        name: "English",
+        file: "en-us.json",
+        iso: "en-US",
       },
       {
-        code: 'fr',
-        iso: 'fr-FR'
-      }
-    ]
+        code: "nl",
+        name: "Nederlands",
+        file: "nl-be.json",
+        iso: "nl-BE",
+      },
+      {
+        code: "fr",
+        name: "Français",
+        file: "fr-be.json",
+        iso: "fr-FR",
+      },
+    ],
   }
 });
